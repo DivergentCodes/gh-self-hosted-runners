@@ -1,2 +1,3 @@
-# template-repo
-Template repository with standard files and settings
+# Github Self Hosted Runners
+
+Self hosted CI runners for Github Actions.
